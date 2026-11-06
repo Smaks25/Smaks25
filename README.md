@@ -10,11 +10,11 @@ Desarrollador Python en formación, con enfoque en **backend y cloud (AWS y Azur
 
 ## Tecnologías
 
-**Lenguajes:** Python · JavaScript
-**Backend:** FastAPI · Node.js
-**Frontend:** React
-**Cloud y DevOps:** AWS · Azure · Docker · CI/CD
-**Herramientas:** Git · GitHub 
+- **Lenguajes:** Python · JavaScript
+- **Backend:** FastAPI · Node.js
+- **Frontend:** React
+- **Cloud y DevOps:** AWS · Azure · Docker · CI/CD
+- **Herramientas:** Git · GitHub
 
 ## Ahora estoy practicando
 
@@ -23,4 +23,4 @@ Desarrollador Python en formación, con enfoque en **backend y cloud (AWS y Azur
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/santiago-cogollo-96196a260) · [santiago.cp25@outlook.com]
+[LinkedIn](https://www.linkedin.com/in/santiago-cogollo-96196a260) · santiago.cp25@outlook.com
